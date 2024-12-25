@@ -1,1 +1,8 @@
-streamlit>=1.26.0
+streamlit
+opencv-python
+numpy
+pillow
+azure-storage-blob
+azure-cognitiveservices-vision-computervision
+msrest
+pyodbc
